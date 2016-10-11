@@ -24,6 +24,7 @@ public class StudentMaker {
     }
     public void viewIT(){
         this.itStudent.show();
+        System.out.println("Just new line...");
     }
     public void viewENG(){
         this.engStudent.show();
