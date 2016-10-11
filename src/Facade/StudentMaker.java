@@ -23,10 +23,10 @@ public class StudentMaker {
         return aMaker;
     }
     public void viewIT(){
-        this.itStudent.view();
+        this.itStudent.show();
     }
     public void viewENG(){
-        this.engStudent.view();
+        this.engStudent.show();
     }
     
 }

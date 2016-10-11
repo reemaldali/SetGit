@@ -12,7 +12,7 @@ package Facade;
 public class ITStudent implements Student{
 
     @Override
-    public void view() {
+    public void show() {
         System.out.println("IT Student...");
     }
     

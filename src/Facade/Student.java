@@ -10,6 +10,6 @@ package Facade;
  * @author aashgar
  */
 public interface Student {
-    public void view();
+    public void show();
     
 }
