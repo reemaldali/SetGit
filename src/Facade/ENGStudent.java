@@ -11,7 +11,7 @@ package Facade;
  */
 public class ENGStudent implements Student{
      @Override
-    public void view() {
+    public void show() {
         System.out.println("Enginnering Student...");
     }
     
